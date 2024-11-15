@@ -1,1 +1,1 @@
-A python script to test the difference in performance with and without dropout on the cifar10 dataset
+I recently learned about the dropout technique, and its ability to reduce model overfitting. In an attempt to grasp more about the application of this technique and its potential I have created a python script to test the difference in performance with and without dropout on the cifar10 dataset.
